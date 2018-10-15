@@ -1,5 +1,6 @@
 # Objetos H
-Participante: Miguel Atocha Tzab Tah
-Correo Electrónico: atocha.tzab@gmail.com
+##Información
+_Participante: Miguel Atocha Tzab Tah_
+_Correo Electrónico: atocha.tzab@gmail.com_
 
-#Instrucciones
+##Instrucciones
