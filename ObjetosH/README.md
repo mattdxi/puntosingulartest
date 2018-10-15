@@ -1,8 +1,8 @@
 # Objetos H
 _Ejercicio 1_
 ## Información
-* **Participante:** Miguel Atocha Tzab Tah_
-* **Correo Electrónico:** atocha.tzab@gmail.com_
+* **Participante:** Miguel Atocha Tzab Tah
+* **Correo Electrónico:** atocha.tzab@gmail.com
 
 ## Instrucciones
 _Acceder con consola o la terminal a la carpeta donde se encuentra el proyecto_
