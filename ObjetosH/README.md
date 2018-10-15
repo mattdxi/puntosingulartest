@@ -11,7 +11,7 @@ _Compilar todos los archivos java del proyecto_
 ```
 $ javac objeto.java cuadrado.java cubo.java
 ```
-_Ejecutar el archivo objeto para iniciar el programa_
+_Ejecutar el archivo objeto.class para iniciar el programa_
 
 ```
 $ java objeto
